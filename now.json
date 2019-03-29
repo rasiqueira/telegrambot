@@ -1,0 +1,15 @@
+{
+  "name": "Telegram-bot",
+  "version": "1.0.0",
+  "main": "bottelegram.py",
+  "license": "MIT",
+  "scripts": {
+    "start": "bottelegram.py"
+  },
+  "dependencies": {
+    "pyTelegramBotAPI": "^0.0.0",
+    "requests": "^0.0.0",
+    "Algorithmia": "^0.0.0"
+    "random": "^0.0.0"
+    "instapy_cli": "^0.0.0"
+  }
